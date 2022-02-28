@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Terminal round based game",
+  "main": "apps.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesRosas/jest-another-RPG.git"
+  },
+  "author": "Ulises Rosas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UlisesRosas/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/UlisesRosas/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.1"
+  }
+}
